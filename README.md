@@ -1,0 +1,2 @@
+# COVIDContactTracer
+Trace Contact History
